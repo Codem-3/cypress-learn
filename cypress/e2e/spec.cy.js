@@ -38,3 +38,12 @@ describe('template spec', () => {
     cy.log('test meeeee')
   })
 })
+
+describe('template spec2', () => {
+  it('passes', () => {
+    cy.visit('https://example.cypress.io')
+    cy.get('h1').click();
+    cy.log('test meeeee')
+  })
+})
+

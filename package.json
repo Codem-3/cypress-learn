@@ -1,5 +1,18 @@
 {
+  "name": "cypress-learning",
+  "version": "1.0.0",
+  "description": "A comprehensive Cypress learning repository with examples and best practices",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:test": "cypress test",
+    "cypress:verify": "cypress verify"
+  },
   "devDependencies": {
-    "cypress": "^14.3.0"
+    "cypress": "^14.3.0",
+    "@cypress/xpath": "^3.0.0",
+    "cypress-real-events": "^1.8.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.5.0"
   }
 }
