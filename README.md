@@ -67,16 +67,3 @@ The repository includes several custom commands:
 5. Use aliases for complex selectors
 6. Implement proper error handling
 7. Use environment variables for configuration
-
-## Contributing
-
-Feel free to contribute by:
-
-1. Adding more examples
-2. Improving documentation
-3. Adding new features
-4. Reporting issues
-
-## License
-
-MIT
